@@ -1,0 +1,36 @@
+# Data manipulation
+pandas==2.1.4
+numpy==1.26.4
+openpyxl==3.1.2
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.2
+plotly==5.18.0
+
+# Machine Learning
+scikit-learn==1.4.0
+imbalanced-learn==0.12.0
+xgboost==2.0.3
+lightgbm==4.3.0
+
+# Model persistence
+joblib==1.3.2
+
+# Statistical tests (monitoring)
+scipy==1.12.0
+
+# API deployment
+fastapi==0.109.2
+uvicorn==0.27.1
+pydantic==2.6.1
+
+# Monitoring dashboard
+streamlit==1.31.1
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.31.0
+
+# Docker (optional CLI tools)
+# docker==7.0.0
